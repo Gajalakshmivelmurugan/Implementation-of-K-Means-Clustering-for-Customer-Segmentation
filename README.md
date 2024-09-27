@@ -67,8 +67,7 @@ plt.title("Customer Segments")
 
 Dataset information:
 
-![329870735-ecee6adb-a2b4-49e8-86ba-15db557d3093](https://github.com/Gajalakshmivelmurugan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/144871940/96f0a52c-9168-4d49-8daa-b3631edec921)
-
+![Screenshot 2024-09-27 141646](https://github.com/user-attachments/assets/6d3dd3d5-ab62-4e4f-a87e-7a556c575b16)
 
 Elbow method graph (wcss vs each iteration):
 
@@ -76,7 +75,8 @@ Elbow method graph (wcss vs each iteration):
 
 Cluster represnting customer segments-graph:
 
-![329870810-c5ffd0ee-f1d1-4fb1-8793-203fe2a6ffb1](https://github.com/Gajalakshmivelmurugan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/144871940/596b409d-1033-42a5-b608-b225cde15c96)
+![Screenshot 2024-09-27 141704](https://github.com/user-attachments/assets/2c26cb99-9cb3-4582-bd54-cfd74f76315b)
+
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
