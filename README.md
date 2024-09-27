@@ -73,6 +73,9 @@ Elbow method graph (wcss vs each iteration):
 
 ![329870780-d94b79f7-aa3f-40e6-8b2b-c3c73c9ee82d](https://github.com/Gajalakshmivelmurugan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/144871940/d4e4e2f7-7ed3-4987-8948-c05702a56da4)
 
+
+
+
 Cluster represnting customer segments-graph:
 
 ![Screenshot 2024-09-27 141704](https://github.com/user-attachments/assets/2c26cb99-9cb3-4582-bd54-cfd74f76315b)
